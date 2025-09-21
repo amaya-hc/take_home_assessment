@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.9.8",
+    "@runt/schema": "jsr:@runt/schema@^0.13.0"
+  },
+  "nodeModulesDir": "auto"
+
+}
